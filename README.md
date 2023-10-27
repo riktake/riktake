@@ -10,3 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 赤子の歩みで勉強中
+うっかり誤マージしないよう気を付けます。
